@@ -100,6 +100,7 @@ We're constantly looking to expand the toolkit's capabilities, with plans to inc
 - Each time an embedding model is changed:
     - Spark job to paralellize re-embedding 
     - Migration of previous vectors to S3
+- Migration of vectors from other stores (ex Pinecone to Mongo)
 - Federated KNN querying capabilities.
 - Containerization of embedding models for ease of deployment.
 
